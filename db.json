@@ -1,0 +1,15 @@
+{
+  "customers": [
+    {
+      "id": 1,
+      "name": "Testbetrieb 1"
+    },
+    {
+      "id": 2,
+      "name": "Testbetrieb 2"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
